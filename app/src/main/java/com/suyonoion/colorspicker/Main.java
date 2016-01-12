@@ -84,7 +84,7 @@ public class Main extends Activity {
         suyonoion.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                goToURL("https://github.com/suyonoion?tab=repositories");
+                goToURL("https://github.com/suyonoion/ResetColorsPicker");
                 goToURL("https://facebook.com/suyono.ion");
             }
         });
